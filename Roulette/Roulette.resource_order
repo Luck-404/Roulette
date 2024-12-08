@@ -24,6 +24,7 @@
     {"name":"spr_big_red_button","order":4,"path":"sprites/spr_big_red_button/spr_big_red_button.yy",},
     {"name":"music","order":2,"path":"sounds/music/music.yy",},
     {"name":"obj_blinker","order":2,"path":"objects/obj_blinker/obj_blinker.yy",},
+    {"name":"Object18","order":17,"path":"objects/Object18/Object18.yy",},
     {"name":"obj_wheel","order":5,"path":"objects/obj_wheel/obj_wheel.yy",},
     {"name":"win","order":1,"path":"sounds/win/win.yy",},
     {"name":"obj_red_button","order":1,"path":"objects/obj_red_button/obj_red_button.yy",},

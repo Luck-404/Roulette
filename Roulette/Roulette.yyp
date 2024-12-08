@@ -44,6 +44,7 @@
     {"id":{"name":"spr_big_red_button","path":"sprites/spr_big_red_button/spr_big_red_button.yy",},},
     {"id":{"name":"music","path":"sounds/music/music.yy",},},
     {"id":{"name":"obj_blinker","path":"objects/obj_blinker/obj_blinker.yy",},},
+    {"id":{"name":"Object18","path":"objects/Object18/Object18.yy",},},
     {"id":{"name":"obj_wheel","path":"objects/obj_wheel/obj_wheel.yy",},},
     {"id":{"name":"win","path":"sounds/win/win.yy",},},
     {"id":{"name":"spin","path":"sounds/spin/spin.yy",},},
